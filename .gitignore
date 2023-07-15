@@ -2,6 +2,8 @@
 *.mat
 *.asv
 
+.DS_Store
+
 # Environment
 .venv
 
